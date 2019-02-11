@@ -9,7 +9,7 @@
 ![](http://bmob-cdn-20165.b0.upaiyun.com/2019/02/11/47f1449640095072807f12b161c7762c.png)
 
 
-1. 添加依赖
+## 1. 添加依赖
 
 - gradle配置
 
@@ -45,7 +45,7 @@ dependencies {
 </dependency>
 ```
 
-2. 使用
+## 2. 使用
 
 java代码中，在setContentView方法调用结束后使用，如下：
 
